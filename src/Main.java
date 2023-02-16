@@ -4,6 +4,6 @@ public class Main {
         System.out.println("This is new branch 4rd commit!");
         newClass n = new newClass();
         n.printSomething();
-
+        System.out.println("This is some dummy text!");
     }
 }
